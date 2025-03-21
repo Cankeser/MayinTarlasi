@@ -8,7 +8,6 @@ namespace MayinTarlasi
         {
             OyunYonetici oyunYonetici = new OyunYonetici();
             oyunYonetici.Basla();
-            Console.ReadLine();
         }
     }
 }
